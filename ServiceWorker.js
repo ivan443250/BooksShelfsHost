@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BookShelfs-0.1.0";
 const contentToCache = [
-    "Build/BooksShelfsHost.loader.js",
-    "Build/BooksShelfsHost.framework.js.br",
-    "Build/BooksShelfsHost.data.br",
-    "Build/BooksShelfsHost.wasm.br",
+    "Build/WebBuild.loader.js",
+    "Build/WebBuild.framework.js.br",
+    "Build/WebBuild.data.br",
+    "Build/WebBuild.wasm.br",
     "TemplateData/style.css"
 
 ];
